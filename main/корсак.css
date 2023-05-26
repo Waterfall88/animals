@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(187, 187, 187);
+}
+.h-p{
+    width: 800px;
+    background-color: rgb(152, 163, 163);
+}
+.h-u{
+    width: 1000px;
+    background-color:  rgb(152, 163, 163);
+    padding: 10px;
+}

@@ -1,0 +1,32 @@
+* {
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(140, 238, 217);
+}
+
+.header,
+.footer {
+    background-color: rgb(77, 218, 187);
+    height: 10vh;
+}
+
+.content {
+    background-color: rgb(25, 128, 105);
+}
+.c-d{
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+    display: inline-block;
+}
+.t{
+    height: 400px;
+}
+
+.c-d-p-f{
+    width: 550px;
+}
