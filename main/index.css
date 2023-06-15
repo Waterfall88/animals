@@ -32,9 +32,18 @@ body {
 }
 .g-p{
     height: 600px;
-    width: 1845px;
+    width: 100%;
 }
 .g-i{
     color: rgb(25, 128, 105);
     font-size: 51px;
+}
+
+@media all and (orientation: portrait) {
+ .g-p{
+    height: 20vh;
+ }
+
+
+
 }
